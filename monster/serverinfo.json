@@ -59,14 +59,14 @@
   "FontColorTabText": "235,245,235",
   "MI_ButtonColor": "10,56,13",
   "MI_Shop": {
-    "savedAt": 1790624642,
+    "savedAt": 1790631190,
     "servers": [
       {
         "id": "monster fibercraft",
         "match": "monster",
         "label": "Monster Fibercraft",
         "cluster": "ni22fd9c293f2db9",
-        "webhookEnc": "mi1:tKEIKbzwJsxav/AvrTildinwdPvlD5VYOn71g2JuZvICiaOioej407K+ULG6p4Zm+Iv5+evv2lCBh1SV21KCIfyxLghYW6Ryo6z5uFgEQDh7Pr0lhzLl6Upk3QqAandetwNmJhSIrF2Xvfk6miMr5uPETVtkTHQOcGqyBb5/pZejhxH05A==",
+        "webhookEnc": "mi1:+I8LWvvFhvRJZmIs9iZdLPjyKO99H6qF7JDnOY7jEHNYB9MUuL864rAeJ0DnlpMKGVTLcEcv7VlB8ZLcPg9psyuuDkdR3iW/FkBgElB/KN4OcUOc0tSc/iRx8/uWmu3Yi4/VZfCXNT+BYAHkRaWyOTmQxsnVRAFJKo3MSLgL+4HpjEga3A==",
         "pointsPerBlock": 5,
         "blockMinutes": 30,
         "afkMinutes": 10,
@@ -75,7 +75,7 @@
             "name": "Griffin",
             "kind": "Dino",
             "desc": "Lvl 900",
-            "price": 15,
+            "price": 20,
             "image": "https://ark.wiki.gg/images/Griffin.png"
           },
           {
@@ -134,7 +134,7 @@
     "botPub": "0d531d9dbc9382f1690b7d62651d548011b440aac9e915c7ecbde841165f89286c4dbfe298372a6569214159c486a329df575a4b70b68fa1f71e5d1c7e0fe2b5",
     "botUserId": "1528460014686306385"
   },
-  "MI_SavedAt": 1790629940,
-  "MI_ShopSig": "8LeippPjM9FFvLVn3raSnpNnlmGSyw78QJG35fAFPrdKxq3oov1oQCjBgSwYwnFZwcsndpAYiDbHoeuOYv4I/w==",
+  "MI_SavedAt": 1790631190,
+  "MI_ShopSig": "PNn1x6YiXJptftXWOtKaFL/xr18Jk7mxaznD2qGTbBQRwGd83JyNpA9Ch+lCFr78yTtaKu6aawOME6wewNb/gA==",
   "MI_ShopTab": 4
 }
