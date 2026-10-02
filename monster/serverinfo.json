@@ -66,7 +66,6 @@
         "match": "monster",
         "label": "Monster Fibercraft",
         "cluster": "ni22fd9c293f2db9",
-        "webhookEnc": "mi1:+I8LWvvFhvRJZmIs9iZdLPjyKO99H6qF7JDnOY7jEHNYB9MUuL864rAeJ0DnlpMKGVTLcEcv7VlB8ZLcPg9psyuuDkdR3iW/FkBgElB/KN4OcUOc0tSc/iRx8/uWmu3Yi4/VZfCXNT+BYAHkRaWyOTmQxsnVRAFJKo3MSLgL+4HpjEga3A==",
         "pointsPerBlock": 5,
         "blockMinutes": 30,
         "afkMinutes": 10,
@@ -135,6 +134,6 @@
     "botUserId": "1528460014686306385"
   },
   "MI_SavedAt": 1790671750,
-  "MI_ShopSig": "PNn1x6YiXJptftXWOtKaFL/xr18Jk7mxaznD2qGTbBQRwGd83JyNpA9Ch+lCFr78yTtaKu6aawOME6wewNb/gA==",
+  "MI_ShopSig": "weM6d5b/MxrfTzZs5ca8Q08j8DuaoMcAyLQHC2vf3NVNgx/1sFFUOVyp7scZrmKTbfKAiuraqVn5slwXktlcmA==",
   "MI_ShopTab": 4
 }
